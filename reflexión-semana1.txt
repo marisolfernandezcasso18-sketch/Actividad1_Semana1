@@ -1,0 +1,10 @@
+El uso irresponsable de la información en internet es muy frecuente, como parte de una comunidad digital no 
+somos consientes de los efectos tangibles que tiene la desinformación sobre las población, es necesario que
+para participar de forma responsable podamos verificar que la información no sea engañosa o pretenda manipular 
+las emociones de la ciudadanía, debemos garantaizar el acceso a datos públicos reales y transparentes, y rastrear 
+la información con otras fuentes confiables o paginas web. Herramientas como Git tienen la capacidad de rasterear 
+el origen de un cambio para asegurar su integridad como mencione anteriormente, el ciudadano resposable, verifica
+la información antes de compartirla. Por otro lado, Git cuenta con un filtro de Code review y Pull Request (PR)
+lo cual contrasta con la importancia de revisar fuentes y contrastar datos, de ser así se lograria reducir la 
+polarización. En definitiva, utilizar Git para organizar el trabajo tecnico es totalmente aplicable a la comunidad 
+digital y nuestra responsabilidad al manejar la información en internet.
